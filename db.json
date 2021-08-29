@@ -1,0 +1,385 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "furniture",
+      "products_count": "13"
+    },
+    {
+      "id": 2,
+      "name": "fashion",
+      "products_count": "33"
+    },
+    {
+      "id": 3,
+      "name": "Sweatshirts",
+      "products_count": "31"
+    },
+    {
+      "id": 4,
+      "name": "shoes",
+      "products_count": "23"
+    }
+  ],
+  "products": [
+    {
+      "id": 4,
+      "name": "women suit A5 ",
+      "price": "236$",
+      "price_special": false,
+      "categories": "fashion",
+      "images": [
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/fashion/1/2.png",
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/fashion/1/OversizedBlazer%20.jpeg",
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/fashion/1/women-suit-A5.jpeg"
+      ],
+      "brandProduct": "House My Brand",
+      "subBrandProduct": "All Arrive",
+      "description": [
+        "Lorem ipsum dolor sit amet, consectetur elit. Nunc maximus, nulla ut commodo sagittis, sapien dui mattis dui, non pulvinar lorem felis nec erat",
+        "Lorem ipsum dolor sit amet, consectetur elit. Nunc maximus, nulla ut commodo sagittis, sapien dui mattis dui, non pulvinar lorem felis nec erat"
+      ],
+      "colors": [
+        "#333",
+        "#ddd"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Cashmere Tank ",
+      "price": "200$",
+      "price_special": false,
+      "categories": "fashion",
+      "images": [
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/fashion/2/1.png",
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/fashion/2/women-cashmere-a3.jpeg",
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/fashion/2/women-shortpatch-a3.jpeg",
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/fashion/2/women-shortpatch-a4.jpg.jpg"
+      ],
+      "brandProduct": "House My Brand",
+      "subBrandProduct": "All Arrive",
+      "description": [
+        "women short patch"
+      ],
+      "colors": [
+        "#e1ae6c",
+        "#ec2325"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "woman abstract ",
+      "price": "400$",
+      "price_special": false,
+      "categories": "fashion",
+      "images": [
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/fashion/3/1.png",
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/fashion/3/woman-abstract-a2-1000x1000.jpg.jpg",
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/fashion/3/woman-abstract-a3-1000x1000.jpg.jpg"
+      ],
+      "brandProduct": "House My Brand",
+      "subBrandProduct": "All Arrive",
+      "description": [
+        "women short patch"
+      ],
+      "colors": [
+        "#e1ae6c",
+        "#ec2325"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Basic Micro Rib Turtleneck",
+      "price": "400$",
+      "price_special": "330$",
+      "categories": "fashion",
+      "images": [
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/fashion/4/1.png",
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/fashion/4/BasicMicroRibTurtleneck.jpg",
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/fashion/4/women-turtleneck-a3.jpeg",
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/fashion/4/women-turtleneck-a4.jpg.jpg",
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/fashion/4/women-turtleneck-a5.jpg.jpg"
+      ],
+      "brandProduct": "House My Brand",
+      "subBrandProduct": "",
+      "description": [
+        "women short patch"
+      ],
+      "colors": [
+        "#ddd",
+        "#f1f1f1"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "chair p-239",
+      "price": "400$",
+      "price_special": "330$",
+      "categories": "furniture",
+      "images": [
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/furniture/1/1.png",
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/furniture/1/product-thumbnail-27-1.jpg",
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/furniture/1/product-thumbnail-27-2.jpg"
+      ],
+      "brandProduct": "House furniture My Brand",
+      "subBrandProduct": "All Arrive now",
+      "description": [
+        "furniture: chair p-239"
+      ],
+      "colors": [
+        "#ddd",
+        "#f1f1f1"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Black Metal Light Bulb",
+      "price": "400$",
+      "price_special": "330$",
+      "categories": "furniture",
+      "images": [
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/furniture/2/1.png",
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/furniture/2/product-thumbnail-31-1-244x300.jpg",
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/furniture/2/product-thumbnail-31-1-244x300.jpg"
+      ],
+      "brandProduct": "Metal furniture My Brand",
+      "subBrandProduct": "All Arrive now",
+      "description": [
+        "furniture: Black Metal Light Bulb"
+      ],
+      "colors": [
+        "#000",
+        "#ddd"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Black table Light Bulb",
+      "price": "400$",
+      "price_special": "330$",
+      "categories": "furniture",
+      "images": [
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/furniture/4/1.png",
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/furniture/4/product-thumbnail-28-1-384x472.jpg",
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/furniture/4/product-thumbnail-28-1-384x472.jpg"
+      ],
+      "brandProduct": "Metal furniture My Brand",
+      "subBrandProduct": "All Arrive now",
+      "description": [
+        "furniture: Black Metal Light Bulb"
+      ],
+      "colors": [
+        "#000",
+        "#ddd"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "shoes s-300",
+      "price": "400$",
+      "price_special": "330$",
+      "categories": "shoes",
+      "images": [
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/shoes/1/1.png",
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/shoes/1/woman-dayloafer-a1.jpg.jpg",
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/shoes/1/woman-dayloafer-a3.jpg.jpg"
+      ],
+      "brandProduct": "shoes My Brand",
+      "subBrandProduct": "All Arrive now",
+      "description": [],
+      "colors": [
+        "#b77249",
+        "#000"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Crossover Leather Sandal",
+      "price": "400$",
+      "price_special": "199$",
+      "categories": "shoes",
+      "images": [
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/shoes/2/1.png",
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/shoes/2/CrossoverLeatherSandal.jpg",
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/shoes/2/woman-sandal-a1.jpeg"
+      ],
+      "brandProduct": "shoes My Brand",
+      "subBrandProduct": "All Arrive now",
+      "description": [
+        "Crossover Leather Sandal s-301"
+      ],
+      "colors": [
+        "#b77249",
+        "#000"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Hang Out Hoodie",
+      "price": "200$",
+      "price_special": "130$",
+      "categories": "Sweatshirts",
+      "images": [
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/sweatshirts/1/1.png",
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/sweatshirts/1/woman-hoodie-a1.jpg.jpg",
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/sweatshirts/1/woman-hoodie-a5.jpg.jpg",
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/sweatshirts/1/woman-hoodie-a6.jpeg"
+      ],
+      "brandProduct": "shoes My Brand",
+      "subBrandProduct": "All Arrive now",
+      "description": [
+        "Sweatshirts: Hang Out Hoodie"
+      ],
+      "colors": [
+        "#b77249",
+        "#000"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Hang Out Hoodie sw:123",
+      "price": "300$",
+      "price_special": "199$",
+      "categories": "Sweatshirts",
+      "images": [
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/sweatshirts/2/1.png",
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/sweatshirts/2/woman-hoodie-a1.jpg.jpg",
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/sweatshirts/2/woman-hoodie-a5.jpg.jpg",
+        "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/sweatshirts/2/woman-hoodie-a6.jpeg"
+      ],
+      "brandProduct": "sweatshirts My Brand",
+      "subBrandProduct": "All Arrive now",
+      "description": [
+        "Sweatshirts: Hang Out Hoodie"
+      ],
+      "colors": [
+        "#b77249",
+        "#000"
+      ]
+    }
+  ],
+  "cart": [
+    {
+      "productId": 7,
+      "name": "Basic Micro Rib Turtleneck",
+      "price": "400$",
+      "price_special": "330$",
+      "categories": "fashion",
+      "image": "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/fashion/4/1.png",
+      "quantity": 1,
+      "brandProduct": "House My Brand",
+      "subBrandProduct": "",
+      "colorChoose": "#ddd",
+      "id": 7
+    },
+    {
+      "productId": 12,
+      "name": "Hang Out Hoodie",
+      "price": "200$",
+      "price_special": "130$",
+      "categories": "Sweatshirts",
+      "image": "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/sweatshirts/1/1.png",
+      "quantity": 1,
+      "brandProduct": "shoes My Brand",
+      "subBrandProduct": "All Arrive now",
+      "colorChoose": "#b77249",
+      "id": 8
+    }
+  ],
+  "wishlist": [
+    {
+      "productId": 8,
+      "name": "chair p-239",
+      "price": "400$",
+      "price_special": "330$",
+      "categories": "furniture",
+      "image": "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/furniture/1/1.png",
+      "brandProduct": "House furniture My Brand",
+      "subBrandProduct": "All Arrive now",
+      "id": 5
+    },
+    {
+      "productId": 12,
+      "name": "Hang Out Hoodie",
+      "price": "200$",
+      "price_special": "130$",
+      "categories": "Sweatshirts",
+      "image": "https://raw.githubusercontent.com/moahmed123/E-shop-v2/main/ImageProduct/sweatshirts/1/1.png",
+      "brandProduct": "shoes My Brand",
+      "subBrandProduct": "All Arrive now",
+      "id": 6
+    }
+  ],
+  "orderList": [
+    {
+      "id": 1,
+      "name": "The North Face Explore bum bag in pink ",
+      "price": "236$",
+      "price_special": false,
+      "categories": "shoes",
+      "product_date": "4th oct 2019",
+      "product_status": "waiting",
+      "image": "https://lh3.googleusercontent.com/fife/AAWUweVxFyMPpYJjjVH2nInUPUezMqETpCfisbKF5A5-CJ1wDbJPyNmNjskQg5ZVxJneqYNFEc2MUtz8pkgQw-5gqgFOg0yshvzYpcL8QgyOfIhSVwbKExc-yA77zyHv29q0MypUNTcwD7G77hKIjQ7gdU9HPZ0mPrQUZpMrbQpte4FBaGF0--NvU5aaC27jQRwSFIDfiWJEY9LNakiX8eIpojWIdC2IfhMZZUa-PfkULR-mUNuCKoNeMmqzPzPh6oF0Lqt5Fc7Dl_n_T_qmfpTf_DQQrk_CDVtNfLbvzSO5XZuThYFryQ752wXtG4M_o-GzbBfITpxy27Ei2sP46aUVCcT7cjGQPIsODq_FCvh-D8Mx6tpMhXHT8pylFPhDSStukWZ8JxZs5pNcG_s3KM9PkeSUn3DUA8cRVTArEWMUjxC4FN3wDAW9XWIW-b7DdHMAADhwsx09vujL6mKfmmagf3IodlvS-bp1tll2RM7dd_QgIfwXVKYqEjtB_XgtMUGCxqdR0vurwJPQyJacuuHrB2YEjLf9-COmKXKed30bGVs1WoqNH1VnzxqjHihQstU83LJlIhFE04XZKQ49dvgp4cvPXlzyl3gAg49xf6lPSfg_gCmLzoTvLo1YwYmlB1NHEVVwItf04U7cJCxLJ89952jeC7wZ_ZEZ4MUDw4fUnnX6g3piDGlALjKjK3EFD42tjJ0QBjde9U6KlNfzr2N18mZKAJWJ8CPTmg=w2879-h800-ft",
+      "brandProduct": "House My Brand",
+      "subBrandProduct": "All Arrive"
+    },
+    {
+      "id": 2,
+      "name": "The North Face",
+      "price": "236$",
+      "price_special": "136$",
+      "categories": "shoes",
+      "product_date": "4th oct 2019",
+      "product_status": "completed",
+      "image": "https://lh3.googleusercontent.com/fife/AAWUweVxFyMPpYJjjVH2nInUPUezMqETpCfisbKF5A5-CJ1wDbJPyNmNjskQg5ZVxJneqYNFEc2MUtz8pkgQw-5gqgFOg0yshvzYpcL8QgyOfIhSVwbKExc-yA77zyHv29q0MypUNTcwD7G77hKIjQ7gdU9HPZ0mPrQUZpMrbQpte4FBaGF0--NvU5aaC27jQRwSFIDfiWJEY9LNakiX8eIpojWIdC2IfhMZZUa-PfkULR-mUNuCKoNeMmqzPzPh6oF0Lqt5Fc7Dl_n_T_qmfpTf_DQQrk_CDVtNfLbvzSO5XZuThYFryQ752wXtG4M_o-GzbBfITpxy27Ei2sP46aUVCcT7cjGQPIsODq_FCvh-D8Mx6tpMhXHT8pylFPhDSStukWZ8JxZs5pNcG_s3KM9PkeSUn3DUA8cRVTArEWMUjxC4FN3wDAW9XWIW-b7DdHMAADhwsx09vujL6mKfmmagf3IodlvS-bp1tll2RM7dd_QgIfwXVKYqEjtB_XgtMUGCxqdR0vurwJPQyJacuuHrB2YEjLf9-COmKXKed30bGVs1WoqNH1VnzxqjHihQstU83LJlIhFE04XZKQ49dvgp4cvPXlzyl3gAg49xf6lPSfg_gCmLzoTvLo1YwYmlB1NHEVVwItf04U7cJCxLJ89952jeC7wZ_ZEZ4MUDw4fUnnX6g3piDGlALjKjK3EFD42tjJ0QBjde9U6KlNfzr2N18mZKAJWJ8CPTmg=w2879-h800-ft",
+      "brandProduct": "House My Brand",
+      "subBrandProduct": "All Arrive"
+    },
+    {
+      "id": 3,
+      "name": "The North Face Explore bum bag in pink ",
+      "price": "236$",
+      "price_special": "136$",
+      "categories": "shoes",
+      "product_date": "4th oct 2019",
+      "product_status": "pending",
+      "image": "https://lh3.googleusercontent.com/fife/AAWUweVxFyMPpYJjjVH2nInUPUezMqETpCfisbKF5A5-CJ1wDbJPyNmNjskQg5ZVxJneqYNFEc2MUtz8pkgQw-5gqgFOg0yshvzYpcL8QgyOfIhSVwbKExc-yA77zyHv29q0MypUNTcwD7G77hKIjQ7gdU9HPZ0mPrQUZpMrbQpte4FBaGF0--NvU5aaC27jQRwSFIDfiWJEY9LNakiX8eIpojWIdC2IfhMZZUa-PfkULR-mUNuCKoNeMmqzPzPh6oF0Lqt5Fc7Dl_n_T_qmfpTf_DQQrk_CDVtNfLbvzSO5XZuThYFryQ752wXtG4M_o-GzbBfITpxy27Ei2sP46aUVCcT7cjGQPIsODq_FCvh-D8Mx6tpMhXHT8pylFPhDSStukWZ8JxZs5pNcG_s3KM9PkeSUn3DUA8cRVTArEWMUjxC4FN3wDAW9XWIW-b7DdHMAADhwsx09vujL6mKfmmagf3IodlvS-bp1tll2RM7dd_QgIfwXVKYqEjtB_XgtMUGCxqdR0vurwJPQyJacuuHrB2YEjLf9-COmKXKed30bGVs1WoqNH1VnzxqjHihQstU83LJlIhFE04XZKQ49dvgp4cvPXlzyl3gAg49xf6lPSfg_gCmLzoTvLo1YwYmlB1NHEVVwItf04U7cJCxLJ89952jeC7wZ_ZEZ4MUDw4fUnnX6g3piDGlALjKjK3EFD42tjJ0QBjde9U6KlNfzr2N18mZKAJWJ8CPTmg=w2879-h800-ft",
+      "brandProduct": "House My Brand",
+      "subBrandProduct": "All Arrive"
+    },
+    {
+      "id": 4,
+      "name": "The North Face Explore bum bag in pink ",
+      "price": "236$",
+      "price_special": false,
+      "categories": "shoes",
+      "product_date": "4th oct 2019",
+      "product_status": "cancelled",
+      "image": "https://lh3.googleusercontent.com/fife/AAWUweVxFyMPpYJjjVH2nInUPUezMqETpCfisbKF5A5-CJ1wDbJPyNmNjskQg5ZVxJneqYNFEc2MUtz8pkgQw-5gqgFOg0yshvzYpcL8QgyOfIhSVwbKExc-yA77zyHv29q0MypUNTcwD7G77hKIjQ7gdU9HPZ0mPrQUZpMrbQpte4FBaGF0--NvU5aaC27jQRwSFIDfiWJEY9LNakiX8eIpojWIdC2IfhMZZUa-PfkULR-mUNuCKoNeMmqzPzPh6oF0Lqt5Fc7Dl_n_T_qmfpTf_DQQrk_CDVtNfLbvzSO5XZuThYFryQ752wXtG4M_o-GzbBfITpxy27Ei2sP46aUVCcT7cjGQPIsODq_FCvh-D8Mx6tpMhXHT8pylFPhDSStukWZ8JxZs5pNcG_s3KM9PkeSUn3DUA8cRVTArEWMUjxC4FN3wDAW9XWIW-b7DdHMAADhwsx09vujL6mKfmmagf3IodlvS-bp1tll2RM7dd_QgIfwXVKYqEjtB_XgtMUGCxqdR0vurwJPQyJacuuHrB2YEjLf9-COmKXKed30bGVs1WoqNH1VnzxqjHihQstU83LJlIhFE04XZKQ49dvgp4cvPXlzyl3gAg49xf6lPSfg_gCmLzoTvLo1YwYmlB1NHEVVwItf04U7cJCxLJ89952jeC7wZ_ZEZ4MUDw4fUnnX6g3piDGlALjKjK3EFD42tjJ0QBjde9U6KlNfzr2N18mZKAJWJ8CPTmg=w2879-h800-ft",
+      "brandProduct": "House My Brand",
+      "subBrandProduct": "All Arrive"
+    }
+  ],
+  "signup": [
+    {
+      "fullname": "Moahmed akaa aaad",
+      "phone": "293863353",
+      "email": "Mohahmedalaa@gmail.com",
+      "password": "123456mB",
+      "id": 1
+    },
+    {
+      "fullname": "Moahmed alaa abas",
+      "phone": "1224589500",
+      "email": "mohamedalaaabas93@gmail.com",
+      "password": "Ishop123",
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    }
+  ]
+}
